@@ -29,6 +29,7 @@
 
 Lightweight script for **automating releases and versioning** using release-it, modified for **Node.js 20+**.
 
+<br>
 
 ## Features
 - Automatically bump version (`package.json`)  
