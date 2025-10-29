@@ -2,8 +2,8 @@
 
 <p align="center">
   <a href="https://nodejs.org/">
-    <img src="https://img.shields.io/badge/Node.js-20+-green?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
-  </a>
+    <img src="https://img.shields.io/badge/Node.js-20+-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
+</a>
   <a href="https://github.com/atex-ovi/atexovi-release-it/stargazers">
     <img src="https://img.shields.io/github/stars/atex-ovi/atexovi-release-it?style=flat-square&logo=github&color=000000&logoColor=ffffff" alt="GitHub stars">
   </a>
