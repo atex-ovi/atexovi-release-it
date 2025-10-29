@@ -27,7 +27,9 @@
   </a>
 </p>
 
-Lightweight script for **automating releases and versioning** using release-it, modified for **Node.js 20+**.
+<p align="center">
+  Lightweight script for <strong>automating releases and versioning</strong> using release-it, modified for <strong>Node.js 20+</strong>.
+</p>
 
 <br>
 
