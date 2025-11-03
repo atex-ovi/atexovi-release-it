@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/github/forks/atex-ovi/atexovi-release-it?style=flat-square&logo=github&color=000000&logoColor=ffffff" alt="GitHub forks">
   </a>
   <a href="https://termux.com/">
-    <img src="https://img.shields.io/badge/Termux-Android-3DDC84?style=flat&logo=android&logoColor=white" alt="Termux / Android">
+    <img src="https://img.shields.io/badge/Termux-0.119.0-3DDC84?style=flat&logo=android&logoColor=white" alt="Termux / Android">
   </a>
 </p>
 
